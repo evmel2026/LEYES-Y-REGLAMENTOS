@@ -1,0 +1,12 @@
+LEYES Y REGLAMENTOS · DCFyCCCO — App instalable (versión 1.1.4)
+Desarrollado por MLF · Secretaría Académica DCFyCCCO
+
+IMPORTANTE: todos los archivos van SUELTOS en la primera pantalla del repositorio (no hay carpetas).
+
+  index.html, manifest.webmanifest, sw.js,
+  icon-192.png, icon-512.png, maskable-512.png, apple-touch-icon.png, favicon-32.png, logo.svg
+
+1. En el repositorio: Add file → Upload files → arrastrá TODOS estos archivos juntos → Commit changes.
+2. Si antes subiste una carpeta "icons" o una carpeta con otro nombre, podés borrarla.
+3. Settings → Pages → Branch: main / (root) → Save.
+4. Abrí https://TU-USUARIO.github.io/NOMBRE-DEL-REPO/ y tocá "Instalar".
