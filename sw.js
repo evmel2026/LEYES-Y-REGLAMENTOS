@@ -1,5 +1,5 @@
 // Leyes y Reglamentos · DCFyCCCO — service worker
-const VERSION = '1.1.4';
+const VERSION = '1.2.0';
 const CACHE = 'leyes-reglamentos-' + VERSION;
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './maskable-512.png', './apple-touch-icon.png', './favicon-32.png',
   'https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js', 'https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js'];
